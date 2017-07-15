@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Khamoshi</string>
+    <string name="large_text"></string>
+
+    <string name="action_settings">Settings</string>
+    <string name="label_fajr_en">FAJR</string>
+    <string name="label_zuhr_en">ZUHR</string>
+    <string name="label_asr_en">ASR</string>
+    <string name="label_magrib_en">MAGHRIB</string>
+    <string name="label_isha_en">ISHA</string>
+    <string name="sample_prayer_timing">1:00 pm</string>
+
+
+
+</resources>

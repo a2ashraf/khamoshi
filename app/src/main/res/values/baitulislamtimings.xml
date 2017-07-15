@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="batimings">
+<!--
+        <item>@array/heading</item>
+-->
+        <item>@array/baweek1</item>
+        <item>@array/baweek2</item>
+        <item>@array/baweek3</item>
+        <item>@array/baweek4</item>
+        <item>@array/baweek5</item>
+        <item>@array/baweek6</item>
+        <item>@array/baweek7</item>
+        <item>@array/baweek8</item>
+        <item>@array/baweek9</item>
+        <item>@array/baweek10</item>
+        <item>@array/baweek11</item>
+        <item>@array/baweek12</item>
+        <item>@array/baweek13</item>
+        <item>@array/baweek14</item>
+        <item>@array/baweek15</item>
+        <item>@array/baweek16</item>
+        <item>@array/baweek17</item>
+        <item>@array/baweek18</item>
+        <item>@array/baweek19</item>
+        <item>@array/baweek20</item>
+        <item>@array/baweek21</item>
+        <item>@array/baweek22</item>
+        <item>@array/baweek23</item>
+        <item>@array/baweek24</item>
+        <item>@array/baweek25</item>
+        <item>@array/baweek26</item>
+        <item>@array/baweek27</item>
+        <item>@array/baweek28</item>
+    </array>
+
+<!--
+    <string-array  name="heading">
+        <item>DATE</item>
+        <item>FAJR</item>
+        <item>SUNRISE</item>
+        <item>ZUHR</item>
+        <item>ASR</item>
+        <item>SUNSET</item>
+        <item>MAGHRIB</item>
+        <item>ISHA</item>
+    </string-array>-->
+
+    <string-array  name="baweek1">
+        <item>1 - Jul</item>
+        <item>4:30 AM</item>
+        <item>5:40 AM </item>
+        <item>2:00 PM</item>
+        <item>5:00 PM</item>
+        <item>9:04 PM</item>
+        <item>9:15PM</item>
+        <item>x</item>
+    </string-array>
+    <string-array  name="baweek2">
+        <item>8 - Jul</item>
+        <item>4:45 AM</item>
+        <item>5:44 AM </item>
+        <item>2:00 PM</item>
+        <item>5:00 PM</item>
+        <item>9:02 PM</item>
+        <item>9:10PM</item>
+        <item>x</item>
+    </string-array>
+    <string-array  name="baweek3">
+        <item>15 - Jul</item>
+        <item>4:45 AM</item>
+        <item>5:50 AM </item>
+        <item>2:00 PM</item>
+        <item>5:00 PM</item>
+        <item>8:58 PM</item>
+        <item>9:05PM</item>
+        <item>x</item>
+    </string-array>
+    <string-array  name="baweek4">
+        <item>22 - Jul</item>
+        <item>5:00 AM</item>
+        <item>5:56 AM </item>
+        <item>2:00 PM</item>
+        <item>5:00 PM</item>
+        <item>8:52 PM</item>
+        <item>9:00PM</item>
+        <item>x</item>
+    </string-array>
+    <string-array  name="baweek5">
+        <item>29 - Jul</item>
+        <item>5:00 AM</item>
+        <item>6:03 AM </item>
+        <item>2:00 PM</item>
+        <item>5:00 PM</item>
+        <item>8:45 PM</item>
+        <item>8:55PM</item>
+        <item>x</item>
+    </string-array>
+
+    <string-array  name="baweek6">
+        <item>4 - Aug</item>
+        <item>5:15 AM</item>
+        <item>6:10 AM </item>
+        <item>2:00 PM</item>
+        <item>5:00 PM</item>
+        <item>8:37 PM</item>
+        <item>8:45 PM</item>
+        <item>10:00 PM</item>
+    </string-array>
+
+    <string-array  name="baweek7">
+        <item>11 - Aug</item>
+        <item>5:15 AM</item>
+        <item>6:18 AM </item>
+        <item>2:00 PM</item>
+        <item>5:00 PM</item>
+        <item>8:28 PM</item>
+        <item>8:35 PM</item>
+        <item>10:00 PM</item>
+    </string-array>
+
+    <string-array  name="baweek8">
+        <item>18 - Aug</item>
+        <item>5:30 AM</item>
+        <item>6:26 AM </item>
+        <item>2:00 PM</item>
+        <item>5:00 PM</item>
+        <item>8:17 PM</item>
+        <item>8:25 PM</item>
+        <item>10:00 PM</item>
+    </string-array>
+
+    <string-array  name="baweek9">
+        <item>25 - Aug</item>
+        <item>5:30 AM</item>
+        <item>6:34 AM </item>
+        <item>2:00 PM</item>
+        <item>5:00 PM</item>
+        <item>8:05 PM</item>
+        <item>8:15 PM</item>
+        <item>9:30 PM</item>
+    </string-array>
+
+    <string-array  name="baweek10">
+        <item>1 - Sep</item>
+        <item>5:45 AM</item>
+        <item>6:42 AM </item>
+        <item>2:00 PM</item>
+        <item>5:00 PM</item>
+        <item>7:53 PM</item>
+        <item>8:05 PM</item>
+        <item>9:30 PM</item>
+    </string-array>
+
+    <string-array  name="baweek11">
+        <item>8 - Sep</item>
+        <item>5:45 AM</item>
+        <item>6:50 AM </item>
+        <item>2:00 PM</item>
+        <item>5:00 PM</item>
+        <item>7:41 PM</item>
+        <item>7:50 PM</item>
+        <item>9:00 PM</item>
+    </string-array>
+
+    <string-array  name="baweek12">
+        <item>15 - Sep</item>
+        <item>6:00 AM</item>
+        <item>6:58 AM </item>
+        <item>2:00 PM</item>
+        <item>5:00 PM</item>
+        <item>7:28 PM</item>
+        <item>7:35 PM</item>
+        <item>9:00 PM</item>
+    </string-array>
+
+    <string-array  name="baweek13">
+        <item>22 - Sep</item>
+        <item>6:00 AM</item>
+        <item>7:06 AM </item>
+        <item>2:00 PM</item>
+        <item>5:00 PM</item>
+        <item>7:15 PM</item>
+        <item>7:25 PM</item>
+        <item>9:00 PM</item>
+    </string-array>
+
+    <string-array  name="baweek14">
+        <item>29 - Sep</item>
+        <item>6:15 AM</item>
+        <item>7:14 AM </item>
+        <item>2:00 PM</item>
+        <item>5:00 PM</item>
+        <item>7:02 PM</item>
+        <item>7:10 PM</item>
+        <item>8:30 PM</item>
+    </string-array>
+
+    <string-array  name="baweek15">
+        <item>6 - Oct</item>
+        <item>6:15 AM</item>
+        <item>7:22 AM </item>
+        <item>2:00 PM</item>
+        <item>5:00 PM</item>
+        <item>6:49 PM</item>
+        <item>6:55 PM</item>
+        <item>8:30 PM</item>
+    </string-array>
+    <string-array  name="baweek16">
+        <item>13 - Oct</item>
+        <item>6:30 AM</item>
+        <item>7:30 AM </item>
+        <item>2:00 PM</item>
+        <item>5:00 PM</item>
+        <item>6:37 PM</item>
+        <item>6:45 PM</item>
+        <item>8:00 PM</item>
+    </string-array>
+
+    <string-array  name="baweek17">
+        <item>20 - Oct</item>
+        <item>6:30 AM</item>
+        <item>7:39 AM </item>
+        <item>2:00 PM</item>
+        <item>5:00 PM</item>
+        <item>6:26 PM</item>
+        <item>6:35 PM</item>
+        <item>8:00 PM</item>
+    </string-array>
+
+    <string-array  name="baweek18">
+        <item>27 - Oct</item>
+        <item>6:45 AM</item>
+        <item>7:48 AM </item>
+        <item>2:00 PM</item>
+        <item>5:00 PM</item>
+        <item>6:15 PM</item>
+        <item>6:25 PM</item>
+        <item>7:45 PM</item>
+    </string-array>
+
+    <string-array  name="baweek19">
+        <item>3 - Nov</item>
+        <item>6:45 AM</item>
+        <item>7:57 AM </item>
+        <item>2:00 PM</item>
+        <item>4:30 PM</item>
+        <item>6:06 PM</item>
+        <item>6:15 PM</item>
+        <item>7:30 PM</item>
+    </string-array>
+
+    <string-array  name="baweek20">
+        <item>5 - Nov*</item>
+        <item>5:45 AM</item>
+        <item>7:00 AM </item>
+        <item>2:00 PM</item>
+        <item>3:30 PM</item>
+        <item>5:03 PM</item>
+        <item>5:15 PM</item>
+        <item>7:30 PM</item>
+    </string-array>
+
+    <string-array  name="baweek21">
+        <item>10 - Nov</item>
+        <item>6:0 AM</item>
+        <item>7:06 AM </item>
+        <item>2:00 PM</item>
+        <item>3:30 PM</item>
+        <item>4:57 PM</item>
+        <item>5:05 PM</item>
+        <item>7:30 PM</item>
+    </string-array>
+
+
+    <string-array  name="baweek22">
+        <item>17 - Nov</item>
+        <item>6:15 AM</item>
+        <item>7:15 AM </item>
+        <item>2:00 PM</item>
+        <item>3:30 PM</item>
+        <item>4:50 PM</item>
+        <item>5:00 PM</item>
+        <item>7:30 PM</item>
+    </string-array>
+
+    <string-array  name="baweek23">
+        <item>24 - Nov</item>
+        <item>6:15 AM</item>
+        <item>7:24 AM </item>
+        <item>2:00 PM</item>
+        <item>x</item>
+        <item>4:45 PM</item>
+        <item>4:50 PM</item>
+        <item>7:30 PM</item>
+    </string-array>
+
+
+    <string-array  name="baweek24">
+        <item>1 - Dec</item>
+        <item>6:30 AM</item>
+        <item>7:32 AM </item>
+        <item>2:00 PM</item>
+        <item>x</item>
+        <item>4:42 PM</item>
+        <item>4:50 PM</item>
+        <item>7:30 PM</item>
+    </string-array>
+
+
+    <string-array  name="baweek25">
+        <item>8 - Dec</item>
+        <item>6:45 AM</item>
+        <item>7:40 AM </item>
+        <item>2:00 PM</item>
+        <item>x</item>
+        <item>4:40 PM</item>
+        <item>4:50 PM</item>
+        <item>7:30 PM</item>
+    </string-array>
+
+
+    <string-array  name="baweek26">
+        <item>15 - Dec</item>
+        <item>6:45 AM</item>
+        <item>7:45 AM </item>
+        <item>2:00 PM</item>
+        <item>x</item>
+        <item>4:41 PM</item>
+        <item>4:50 PM</item>
+        <item>7:30 PM</item>
+    </string-array>
+
+    <string-array  name="baweek27">
+        <item>22 - Dec</item>
+        <item>6:45 AM</item>
+        <item>7:50 AM </item>
+        <item>2:00 PM</item>
+        <item>x</item>
+        <item>4:44 PM</item>
+        <item>4:50 PM</item>
+        <item>7:30 PM</item>
+    </string-array>
+
+    <string-array  name="baweek28">
+        <item>29 - Dec</item>
+        <item>6:45 AM</item>
+        <item>7:52 AM </item>
+        <item>2:00 PM</item>
+        <item>x</item>
+        <item>4:49 PM</item>
+        <item>5:00 PM</item>
+        <item>7:30 PM</item>
+    </string-array>
+</resources>
